@@ -1,0 +1,16 @@
+{
+    "active": true,
+    "build": {
+        "cms": "wordpress",
+        "database": "mysql",
+        "language": "php"
+    },
+    "category": [
+        "hardware",
+        "software",
+        "network"
+    ],
+    "domainname": "pythonpcap.com",
+    "facebookpage": "https://www.facebook.com/pythonpcap/",
+    "numberposts": 360
+}
